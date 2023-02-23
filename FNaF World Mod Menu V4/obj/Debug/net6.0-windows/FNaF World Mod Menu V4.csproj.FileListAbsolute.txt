@@ -1,0 +1,17 @@
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\bin\Debug\net6.0-windows\FNaF World Mod Menu V4.exe
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\bin\Debug\net6.0-windows\FNaF World Mod Menu V4.deps.json
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\bin\Debug\net6.0-windows\FNaF World Mod Menu V4.runtimeconfig.json
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\bin\Debug\net6.0-windows\FNaF World Mod Menu V4.dll
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\bin\Debug\net6.0-windows\FNaF World Mod Menu V4.pdb
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.csproj.AssemblyReference.cache
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF_World_Mod_Menu_V4.Form1.resources
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.csproj.GenerateResource.cache
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.AssemblyInfoInputs.cache
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.AssemblyInfo.cs
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.csproj.CoreCompileInputs.cache
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.dll
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\refint\FNaF World Mod Menu V4.dll
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.pdb
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\FNaF World Mod Menu V4.genruntimeconfig.cache
+C:\Users\smoke\OneDrive\Desktop\Files\Projects\FNaF World Mod Menu V4\FNaF World Mod Menu V4\obj\Debug\net6.0-windows\ref\FNaF World Mod Menu V4.dll
